@@ -1,0 +1,25 @@
+{
+  "name": "messstation",
+  "version": "1.0.0",
+  "description": "messstation",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidHieselmayr/messstation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidHieselmayr/messstation/issues"
+  },
+  "homepage": "https://github.com/DavidHieselmayr/messstation#readme"
+}
